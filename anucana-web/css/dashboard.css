@@ -1,0 +1,28 @@
+body{
+	height: 1000px;
+}
+
+.header{
+	background-color: #e5e5e5;
+	height: 10%;
+}
+
+.menu{
+	background-color: #555555;
+	height: 90%;
+	float:left;
+}
+
+.menutabs{
+	list-style: none;
+}
+
+.menutabs{
+	list-style: none;
+}
+
+.content{
+	background-color: #a5a5a5;
+	height: 90%;
+	float:right;
+}
