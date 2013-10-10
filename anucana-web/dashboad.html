@@ -1,27 +1,43 @@
 <html>
 <head>
-	<title>anucana dashboad</title>
-	<link rel="stylesheet" type="text/css" href="css/960_24_col.css">
-	<link rel="stylesheet" type="text/css" href="css/reset.css">
-	<link rel="stylesheet" type="text/css" href="css/dashboard.css">
+	<title>anucana | dashboad</title>
+	<link rel="stylesheet" href="css/jquery-ui-1.10.3.custom.css" />
+	<link rel="stylesheet" type="text/css" href="css/dashboard.css" />
+	<script src="js/jquery-1.9.1.js"></script>
+	<script src="js/jquery-ui-1.10.3.custom.js"></script>
+	<script type="text/javascript">
+		$(function() {
+			$( "#tabs" ).tabs().addClass( "ui-tabs-vertical ui-helper-clearfix" );
+			$( "#tabs li" ).removeClass( "ui-corner-top" ).addClass( "ui-corner-left" );
+		});
+	</script>
 </head>
 <body>
-	<div class="container_24">
-		<div class="header grid_24"></div>
-		<div class="menu grid_3">
-			<ul class="menutabs">
-				<li><a href="#">DASHBOARD<a></li>
-				<li><a href="#">BLOG<a></li>
-				<li><a href="#">DISCUSS<a></li>
-				<li><a href="#">SCHEDULE<a></li>
-			</ul>
-			<ul class="systemtabs">
-				<li><a href="#">SETTINGS</a></li>
-				<li><a href="#">LOG OUT</a></li>
-			</ul>
+	<div id="tabs">
+		<ul>
+			<li></li>
+			<li><a href="#tabs-1">DASHBOARD</a></li>
+			<li><a href="#tabs-2">BLOG</a></li>
+			<li><a href="#tabs-3">DISCUSS</a></li>
+			<li><a href="#tabs-4">SCHEDULE</a></li>
+			<li></li>
+			<li><a href="#tabs-5">SETTINGS</a></li>
+
+		</ul>
+		<div id="tabs-1">
+			<p>Tab 1 Clicked</p>
 		</div>
-		<div class="content grid_21">
-			
+		<div id="tabs-2">
+			<p>Tab 2 Clicked</p>
+		</div>
+		<div id="tabs-3">
+			<p>Tab 3 Clicked</p>
+		</div>
+		<div id="tabs-4">
+			<p>Tab 4 Clicked</p>
+		</div>
+		<div id="tabs-5">
+			<p>Tab 5 Clicked</p>
 		</div>
 	</div>
 </body>
