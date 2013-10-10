@@ -10,12 +10,12 @@ body {
 	font-size: 12px;
 	line-height: 1.5em; 
 	background-color: #ffffff;
-	background-image: url(../img/anucana_body.jpg);
+	background-image: url(../images/anucana_body.jpg);
 	background-repeat: repeat;
 	background-position: top
 }
 
-.home { background-image: url(../img/anucana_home_body.jpg) } 
+.home { background-image: url(../images/anucana_home_body.jpg) } 
 
 a, a:link, a:visited { color: #cfcd60; text-decoration: none; }
 a:hover { color:#9CF; text-decoration: underline; }
@@ -58,19 +58,19 @@ cite span { color: #333; }
 em { color: #CCC; }
 
 .tmo_list { margin: 15px 0 15px 15px; padding: 0; list-style: none; }
-.tmo_list li { color: #cfcd60; background: transparent url(../img/anucana_list.png) no-repeat scroll 0 3px; margin:0 0 10px; padding: 4px 0 4px 25px; 	line-height: 1em; }
+.tmo_list li { color: #cfcd60; background: transparent url(../images/anucana_list.png) no-repeat scroll 0 3px; margin:0 0 10px; padding: 4px 0 4px 25px; 	line-height: 1em; }
 .tmo_list li a { color: #cfcd60; }
 .tmo_list li a:hover { color: #9CF; }
 
 
-#anucana_outer_wrapper { width: 100%; background: url(../img/anucana_header.jpg) top repeat-x }
-#anucana_wrapper { width: 1020px; margin: 0 auto; background: url(../img/anucana_main.jpg) top center no-repeat }
+#anucana_outer_wrapper { width: 100%; background: url(../images/anucana_header.jpg) top repeat-x }
+#anucana_wrapper { width: 1020px; margin: 0 auto; background: url(../images/anucana_main.jpg) top center no-repeat }
 
 #anucana_header { width: 980px; padding: 0 40px; height: 120px; position:relative; }
 
 .anucana_like { position:absolute; top:10px; left:300px; width:45px; height:39px; display:block; cursor:default;}
 
-#site_title a { float: left; display: block; width: 260px; background: url(../img/logo.png) no-repeat center top; margin: 40px 0 0 0; padding: 30px 0 0 0; color: #fff; font-weight: normal; text-decoration: none; text-align: center; }
+#site_title a { float: left; display: block; width: 260px; background: url(../images/logo.png) no-repeat center top; margin: 40px 0 0 0; padding: 30px 0 0 0; color: #fff; font-weight: normal; text-decoration: none; text-align: center; }
 #header_right { float: right;  padding-top: 10px; display: inline-block; }
 
 #anucana_content .next {cursor:text; color:#FFF;}
@@ -80,8 +80,8 @@ em { color: #CCC; }
 #anucana_menu { float: right; width: 600px; height: 120px }
 #anucana_menu ul { margin: 0; padding: 0; list-style: none; }
 #anucana_menu ul li { padding: 0; margin: 0; display: inline; }
-#anucana_menu ul li a { float: left; display: block; width: 120px; font-size: 14px; padding: 60px 0 30px; color: #666; text-decoration: none; font-weight: bold; text-align: center; outline: none; background: url(../img/anucana_menu.png) top center no-repeat }
-#anucana_menu ul li a:hover, #anucana_menu ul .current { color: #fff; background: url(../img/anucana_menu_hover.png) top center no-repeat }
+#anucana_menu ul li a { float: left; display: block; width: 120px; font-size: 14px; padding: 60px 0 30px; color: #666; text-decoration: none; font-weight: bold; text-align: center; outline: none; background: url(../images/anucana_menu.png) top center no-repeat }
+#anucana_menu ul li a:hover, #anucana_menu ul .current { color: #fff; background: url(../images/anucana_menu_hover.png) top center no-repeat }
 
 /* end of menu */
 
@@ -89,7 +89,7 @@ em { color: #CCC; }
 
 #featured_project { width: 900px; height: 390px; padding: 25px 60px; margin-bottom: 30px; }
 
-#featured_project_box { width: 580px; height: 390px; padding: 20px 0px 25px 35px; margin-bottom: 30px; background: url(../img/anucana_featured_box.png) no-repeat; float: left;}
+#featured_project_box { width: 580px; height: 390px; padding: 20px 0px 25px 35px; margin-bottom: 30px; background: url(../images/anucana_featured_box.png) no-repeat; float: left;}
 #loginBlock {width : 380px; float : right;}
 #loginBlock table tr td {padding: 0 0 0 10px;}
 #loginbutton input{padding : 1px 4px !important; margin-right: 0 !important}
@@ -100,7 +100,7 @@ em { color: #CCC; }
 #featured_project h1 { color: #31302e; font-weight: bold; /* text-shadow: 1px 1px 1px #b0ada7; margin-bottom: 40px */}
 #featured_project .fp_img { width: 380px; height: 180px; float: left; position: relative; padding: 10px; }
 #featured_project .fp_img img { width: 380px; height: 180px }
-#featured_project .fp_img span { width: 400px; height: 200px; position: absolute; top: 0; left: 0; background: url(../img/anucana_featured_work.png) }
+#featured_project .fp_img span { width: 400px; height: 200px; position: absolute; top: 0; left: 0; background: url(../images/anucana_featured_work.png) }
 
 
 #fp_content { float: right; width: 380px; font-size: 18px; line-height: 22px }
@@ -111,7 +111,7 @@ em { color: #CCC; }
 #fp_content a:hover span { font-weight: bold; font-size: 24px;  }
 
 
-#content_title_box { width: 820px; height: 225px; padding: 60px 100px 0; margin-bottom: 40px; color: #333; font-size: 18px; line-height: 30px; background: url(../img/anucana_content_title_box.png) no-repeat center }
+#content_title_box { width: 820px; height: 225px; padding: 60px 100px 0; margin-bottom: 40px; color: #333; font-size: 18px; line-height: 30px; background: url(../images/anucana_content_title_box.png) no-repeat center }
 #content_title_box h1 { color: #31302e; font-weight: bold; /* text-shadow: 1px 1px 1px #b0ada7; */ margin-bottom: 25px  }
 
 #anucana_content { clear: both; width: 980px; padding: 0 20px 40px }
@@ -119,7 +119,7 @@ em { color: #CCC; }
 #anucana_content p { margin-bottom: 15px }
 
 
-.content_box { padding-bottom: 20px; margin-bottom: 20px; background: url(../img/hr_divider.jpg) bottom repeat-x }
+.content_box { padding-bottom: 20px; margin-bottom: 20px; background: url(../images/hr_divider.jpg) bottom repeat-x }
 .cb_last { padding-bottom: 0; margin-bottom: 0; background: none }
 .col_w300 { width: 280px; margin: 0px 40px 0px 0px; float: left }
 .col_w640 { width: 560px; margin: 0px 40px; float: left }
@@ -160,7 +160,7 @@ em { color: #CCC; }
 #contact_form form textarea { font-family: Arial, Helvetica, sans-serif; color: #fff; width: 450px;  height: 200px; padding: 5px; background: #181818; border: 1px solid #444 }
 #contact_form .submit_btn , #loginbutton input{ padding: 8px 12px; margin-right: 100px; color: #fff; background: #111; border: 1px solid #444; }
 
-#anucana_footer { clear: both; width: 980px; height: 73px; padding: 120px 20px 0; text-align: center; background: url(../img/anucana_footer.jpg) bottom center no-repeat }
+#anucana_footer { clear: both; width: 980px; height: 73px; padding: 120px 20px 0; text-align: center; background: url(../images/anucana_footer.jpg) bottom center no-repeat }
 
 
 
