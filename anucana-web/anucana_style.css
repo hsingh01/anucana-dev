@@ -64,7 +64,7 @@ em { color: #CCC; }
 
 
 #anucana_outer_wrapper { width: 100%; background: url(images/anucana_header.jpg) top repeat-x }
-#anucana_wrapper { width: 1020px; margin: 0 auto; background: url(images/anucana_main.jpg) top center no-repeat }
+#anucana_wrapper { width: 1020px; margin: 0 auto; background: yellow top center no-repeat }
 
 #anucana_header { width: 980px; padding: 0 40px; height: 120px; position:relative; }
 
@@ -91,8 +91,10 @@ em { color: #CCC; }
 
 #featured_project_box { width: 580px; height: 390px; padding: 20px 0px 25px 35px; margin-bottom: 30px; background: url(images/anucana_featured_box.png) no-repeat; float: left;}
 #loginBlock {width : 380px; float : right;}
-#loginBlock table tr td {padding: 0 0 0 14px;}
-#loginbutton input{padding : 0 2px;}
+#loginBlock table tr td {padding: 0 0 0 10px;}
+#loginbutton input{padding : 1px 4px !important; margin-right: 0 !important}
+#loginBlock table {float:right}
+#clear {clear:both;}
 
 
 #featured_project h1 { color: #31302e; font-weight: bold; /* text-shadow: 1px 1px 1px #b0ada7; margin-bottom: 40px */}
@@ -159,3 +161,7 @@ em { color: #CCC; }
 #contact_form .submit_btn , #loginbutton input{ padding: 8px 12px; margin-right: 100px; color: #fff; background: #111; border: 1px solid #444; }
 
 #anucana_footer { clear: both; width: 980px; height: 73px; padding: 120px 20px 0; text-align: center; background: url(images/anucana_footer.jpg) bottom center no-repeat }
+
+
+
+
