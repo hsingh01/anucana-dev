@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Piecemaker>
   <Contents>
-    <Image Source="sliding_photos/photo_01.jpg" Title="Photo One">
+    <Image Source="img/sliding_photos/photo_01.jpg" Title="Photo One">
 		<Text>&lt;h1&gt;Welcome to anucana.com&lt;/h1&gt;&lt;p&gt;Feel free to download, edit and apply this template for any purpose. Integer malesuada enim sit amet nisl ultricies at pellentesque arcu vehicula. Nam cursus magna eget dolor porta laoreet. Vivamus ac magna ac ipsum facilisis consequat. Integer vestibulum, ante ac pellentesque porttitor, ipsum neque malesuada lectus, non aliquet tellus nulla et lectus.&lt;/p&gt;&lt;p&gt;Sed bibendum feugiat enim. Integer imperdiet, diam eget varius ultricies, dolor lorem posuere libero, a varius felis leo et felis.&lt;/p&gt;</Text>
 		<Hyperlink URL="http://www.anucana.com/page/1" Target="_blank" />
 	</Image>		
-    <Image Source="sliding_photos/photo_02.jpg" Title="Photo Two">
+    <Image Source="img/sliding_photos/photo_02.jpg" Title="Photo Two">
       <Text>&lt;h1&gt;XHTML CSS Templates&lt;/h1&gt;&lt;p&gt;Donec congue adipiscing purus sed blandit. Aenean id enim quam, sit amet euismod nunc. Cras tristique nisl id dolor mollis rutrum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean vitae massa enim.&lt;/p&gt;&lt;p&gt;Aenean at elit nibh, sed viverra purus. Duis ante risus, pellentesque eu venenatis nec, malesuada nec nisi. Duis ut erat id sem eleifend faucibus. &lt;/p&gt;</Text>
       <Hyperlink URL="http://www.anucana.com/page/2" Target="_blank" />
     </Image>
-	<Image Source="sliding_photos/photo_03.jpg" Title="Photo Three">
+	<Image Source="img/sliding_photos/photo_03.jpg" Title="Photo Three">
       <Text>&lt;h1&gt;An enabling platform for knowledge communitiess&lt;/h1&gt;&lt;p&gt;Vivamus ac magna ac ipsum facilisis consequat. Integer vestibulum, ante ac pellentesque porttitor, ipsum neque malesuada lectus, non aliquet tellus nulla et lectus. &lt;/p&gt;&lt;p&gt;Sed bibendum feugiat enim. Integer imperdiet, diam eget varius ultricies, dolor lorem posuere libero, a varius felis leo et felis. &lt;/p&gt;&lt;p&gt;Vivamus sollicitudin cursus nisi ac tempus. Donec sed est ac tellus pharetra sagittis a in massa. Pellentesque vitae enim dolor. &lt;/p&gt;</Text>
       <Hyperlink URL="http://www.anucana.com/page/3" Target="_blank" />
     </Image>
-	<Image Source="sliding_photos/photo_04.jpg" Title="Photo Four">
+	<Image Source="img/sliding_photos/photo_04.jpg" Title="Photo Four">
       <Text>&lt;h1&gt;Web Design Ideas&lt;/h1&gt;&lt;p&gt;Aliquam at tincidunt nibh. Quisque ligula est, ultricies mattis aliquet at, aliquam quis urna. Fusce a bibendum est. Nullam fringilla, turpis eu suscipit vestibulum, dui massa rutrum tellus, a faucibus nibh tellus porta elit. Duis bibendum lacus quam. &lt;/p&gt;&lt;p&gt;Maecenas rhoncus accumsan facilisis. Nam dignissim libero eu dui tempus sit amet ultricies dolor laoreet. &lt;/p&gt;&lt;p&gt;Nullam cursus, ante sit amet condimentum venenatis, orci quam suscipit libero, ut accumsan quam mi ultricies lectus.&lt;/p&gt;</Text>
       <Hyperlink URL="http://www.anucana.com/page/4" Target="_blank" />
     </Image>
